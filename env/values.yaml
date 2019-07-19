@@ -20,7 +20,7 @@ expose:
   - --v
   - 4
   config:
-    domain: rverduci-test.ooguy.com
+    domain: 35.189.217.131.nip.io
     exposer: Ingress
     http: "true"
 jenkins:
